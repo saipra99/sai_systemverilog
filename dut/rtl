@@ -1,1 +1,2 @@
-module 
+module full_adder(a_in,b_in,c_in,sum,carry);
+
